@@ -1,4 +1,4 @@
-# Hello! I'm Lars 🎧
+# Hello! I'm Lars 🎧  
 
 **Drummer 🥁 | Coder 👨‍💻 | Audio & Video Editor 🎧 | Radiohost at Radio Topscore 📻 | Gamer 🎮 | PC Builder 🖥 | Podcaster 🎙️**
 
@@ -6,18 +6,8 @@
 
 ### 📝 About Me
 
-Hi, I’m Lars!  
-I’m a 14-year-old student of Natural Sciences at the **Royal Atheneum of Zottegem** in Belgium.  
-
-Music has been part of my life as long as I can remember. I play drums in my band **The Fire Of The Band**, but I also play guitar and piano. My favourite genres are **metalcore, hardcore and rock** — loud, fast and full of energy.  
-
-I’m also fascinated by technology. I built my own PC, love tinkering with hardware and software, and from time to time I code in **Java, C++ and Python** to explore new projects and challenges.
-
-Editing is another passion of mine. For video I use **DaVinci Resolve** and for audio **Reaper**. Creating and shaping sound or visuals into a finished product is something I enjoy a lot.
-
-Every week you can catch me **live on [Radio Topscore](https://radiotopscore.be/)** hosting radio shows. Speaking into a mic, connecting with listeners and sharing music is one of my favourite ways to spend a Saturday.
-
-When I’m not studying, making music or coding, you’ll find me cycling, walking, running, gaming or thinking up new projects to create.
+I’m Lars, a 14-year-old student of Natural Sciences at the Royal Atheneum of Zottegem.  
+I love making music, hosting radio shows, building PCs, editing audio & video, and coding in Java, C++ and Python.  
 
 ---
 
@@ -28,8 +18,12 @@ When I’m not studying, making music or coding, you’ll find me cycling, walki
   <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
   <img alt="DaVinci Resolve" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/davinciresolve/davinciresolve-original.svg"/>
+  <img alt="Reaper" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/REAPER_logo.png"/>
+  <img alt="Spotify" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174872.png"/>
+  <img alt="ChatGPT" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"/>
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img alt="Windows" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 </p>
 
 ---
@@ -50,13 +44,13 @@ When I’m not studying, making music or coding, you’ll find me cycling, walki
 <details>
 <summary>🎙️ More About Me</summary>
 
-- 🥁 Drummer in **The Fire Of The Band**  
-- 🎸 Plays **guitar and piano** as well  
+- 🥁 Drummer in **The Fire Of The Band** and plays **guitar and piano**  
 - 📻 **Radio host at Radio Topscore** every Saturday  
-- 🖥 Built my own PC  
-- 👨‍💻 Codes in **Java, C++ and Python**  
+- 🖥 Built my own PC and loves tinkering with hardware & software  
+- 👨‍💻 Codes in **Java, C++ and Python** and enjoys exploring new projects  
 - 🎧 Video editing with **DaVinci Resolve**, audio editing with **Reaper**  
-- 🚴 Likes **cycling, walking, running and gaming** in free time  
+- 🎮 Likes **gaming, cycling, walking and running** in free time  
 - 🎶 Favourite genres: **metalcore, hardcore, rock**  
+- 🎙️ Podcasting and experimenting with new creative formats  
 
 </details>
