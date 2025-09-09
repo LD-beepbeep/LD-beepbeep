@@ -1,21 +1,23 @@
-# 🐾 Hi, I'm Lars Dehairs 👋  
+# Hello! I'm Lars 🎧
 
-🎙️ **Radiomaker** • 🥁 **Drummer** • 🎸 **Guitarist** • 🖥️ **PC Builder** • 🎬 **Videographer**
-
-I’m a 14-year-old student of natural sciences at the **Royal Atheneum of Zottegem**.  
-In my free time I cycle, walk, run and, above all, make music 🎶.  
-Every Saturday from 12–13 you can catch me **live on [Urgent.fm](https://urgent.fm/)** hosting radio shows.  
+**Drummer 🥁 | Coder 👨‍💻 | Audio & Video Editor 🎧 | Radiohost at Radio Topscore 📻 | Gamer 🎮 | PC Builder 🖥 | Podcaster 🎙️**
 
 ---
 
-### 🌟 Quick Facts
+### 📝 About Me
 
-- 🐱 Cat dad to **Stella**  
-- 🍝 Loves **lasagna & Italian food** (risotto… not so much 😅)  
-- 🎶 Favourite genres: **metalcore, hardcore & rock**  
-- 🥁 Drummer in **The Fire Of The Band**  
-- 💻 Built my own PC  
-- 🎬 Video editing in **DaVinci Resolve**, audio editing in **Reaper**  
+Hi, I’m Lars!  
+I’m a 14-year-old student of Natural Sciences at the **Royal Atheneum of Zottegem** in Belgium.  
+
+Music has been part of my life as long as I can remember. I play drums in my band **The Fire Of The Band**, but I also play guitar and piano. My favourite genres are **metalcore, hardcore and rock** — loud, fast and full of energy.  
+
+I’m also fascinated by technology. I built my own PC, love tinkering with hardware and software, and from time to time I code in **Java, C++ and Python** to explore new projects and challenges.
+
+Editing is another passion of mine. For video I use **DaVinci Resolve** and for audio **Reaper**. Creating and shaping sound or visuals into a finished product is something I enjoy a lot.
+
+Every week you can catch me **live on [Radio Topscore](https://radiotopscore.be/)** hosting radio shows. Speaking into a mic, connecting with listeners and sharing music is one of my favourite ways to spend a Saturday.
+
+When I’m not studying, making music or coding, you’ll find me cycling, walking, running, gaming or thinking up new projects to create.
 
 ---
 
@@ -45,26 +47,16 @@ Every Saturday from 12–13 you can catch me **live on [Urgent.fm](https://urgen
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURGITHUB&show_icons=true&theme=tokyonight" alt="Lars's GitHub stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=YOURGITHUB&theme=tokyonight&border_radius=5" alt="GitHub Streak" height="165">
-</p>
-
----
-
-### 🎵 Now Playing
-
-![Spotify](https://novatorem.vercel.app/api/spotify)  
-*(Shows whatever I’m listening to right now)*  
-
----
-
 <details>
-<summary>👨‍🎓 More About Me</summary>
+<summary>🎙️ More About Me</summary>
 
-I like to code in Java, C++ and Python, constantly exploring new projects and challenges.  
-Technology fascinates me, and I enjoy experimenting with new software and hardware.  
+- 🥁 Drummer in **The Fire Of The Band**  
+- 🎸 Plays **guitar and piano** as well  
+- 📻 **Radio host at Radio Topscore** every Saturday  
+- 🖥 Built my own PC  
+- 👨‍💻 Codes in **Java, C++ and Python**  
+- 🎧 Video editing with **DaVinci Resolve**, audio editing with **Reaper**  
+- 🚴 Likes **cycling, walking, running and gaming** in free time  
+- 🎶 Favourite genres: **metalcore, hardcore, rock**  
 
 </details>
