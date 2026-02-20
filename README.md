@@ -1,6 +1,6 @@
 # Hello! I'm Lars 🎧  
 
-**Drummer 🥁 | Coder 👨‍💻 | Audio & Video Editor 🎧 | Radiohost at Radio Topscore 📻 | Gamer 🎮 | PC Builder 🖥 | Podcaster 🎙️| 💻 Developer | 🧠 Self-Taught Coder | 🔍 Exploring Java, Python & C++**
+**Drummer 🥁 | Coder 👨‍💻 | Audio & Video Editor 🎧 | Radiohost at Boenkerz 📻 | Gamer 🎮 | PC Builder 🖥 | Podcaster 🎙️| 💻 Developer | 🧠 Self-Taught Coder | 🔍 Exploring Java, Python & C++**
 
 ---
 
@@ -40,8 +40,8 @@ I’m Lars. I love making music, hosting radio shows, building PCs, editing audi
 <summary>🎙️ More About Me</summary>
 
 - 🥁 Drummer in **The Fire Of The Band** and plays **guitar and piano as a side quest :)**  
-- 📻 **Radio host at Radio Topscore**
-- 🖥 Built my own PC and loves tinkering with hardware & software  
+- 📻 Radio host at **Boenkerz**
+- 🖥 Built my own **PC** and loves tinkering with **hardware & software**
 - 👨‍💻 Codes in **Java, C++ and Python** and enjoys exploring new projects  
 - 🎧 Video editing with **DaVinci Resolve**, audio editing with **Reaper**  
 - 🎮 Likes **gaming, cycling, walking and running** in free time  
