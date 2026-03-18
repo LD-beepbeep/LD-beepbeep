@@ -6,10 +6,7 @@
 
 ### 📝 About Me
 
-I’m Lars. I love making music, hosting radio shows, building PCs, editing audio & video, and coding in Java, C++, Python, some more.  <p align="left">
-<img src="https://img.shields.io/badge/Verified-Student-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/PC_Builder-Hardware-red?style=for-the-badge&logo=micro-star-international&logoColor=white" />
-</p>
+I’m Lars. I love making music, hosting radio shows, building PCs, editing audio & video, and coding in Java, C++, Python, some more.
 
 ---
 
@@ -19,11 +16,16 @@ I’m Lars. I love making music, hosting radio shows, building PCs, editing audi
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+  <img alt="HTML" height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Html-1.svg"/>
   <img alt="Spotify" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174872.png"/>
-  <img alt="ChatGPT" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"/>
+  <img alt="Claude" height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg"/>
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img alt="Windows" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VERIFIED-STUDENT-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-LINUX_USER-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -52,3 +54,5 @@ I’m Lars. I love making music, hosting radio shows, building PCs, editing audi
 - 🎙️ Podcasting, host of [**Tom Tom Talks**](https://ld-beepbeep.github.io/podcast/)
 
 </details>
+
+
