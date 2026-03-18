@@ -39,9 +39,9 @@ I’m Lars. I love making music, hosting radio shows, building PCs, editing audi
 <details>
 <summary>🎙️ More About Me</summary>
 
-- 🥁 Drummer in **The Fire Of The Band** and plays **guitar and piano as a side quest :)**  
-- 📻 Radio host at **Boenkerz**
-- 🖥 Built my own **PC** and loves tinkering with **hardware & software**
+- 🥁 **Drummer** and plays **guitar and piano sometimes as a side quest :)**  
+- 📻 Radio host at **Boenkerz** and hosting **Headbang Hour**
+- 🖥 Built my own **PC** and love tinkering with **hardware & software**
 - 👨‍💻 Codes in **Java, C++ and Python** and enjoys exploring new projects  
 - 🎧 Video editing with **DaVinci Resolve**, audio editing with **Reaper**  
 - 🎮 Likes **gaming, cycling, walking and running** in free time  
