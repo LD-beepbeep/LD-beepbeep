@@ -1,6 +1,6 @@
 # Hello! I'm Lars 🎧  
 
-**Drummer 🥁 | Coder 👨‍💻 | Audio & Video Editor 🎧 | Radiohost at Boenkerz 📻 | Gamer 🎮 | PC Builder 🖥 | Podcaster 🎙️| 💻 Developer | 🧠 Self-Taught Coder | 🔍 Exploring Java, Python & C++**
+**Drummer 🥁 | Software Developer 👨‍💻 | Audio & Video Editor 🎧 | Radiohost at Boenkerz 📻 | Gamer 🎮 | PC Builder 🖥 | Podcaster 🎙️| 💻 Web-dev | 🔍 Exploring Java, Python, C++ and web-languages |**
 
 ---
 
@@ -40,12 +40,12 @@ I’m Lars. I love making music, hosting radio shows, building PCs, editing audi
 <summary>🎙️ More About Me</summary>
 
 - 🥁 **Drummer** and plays **guitar and piano sometimes as a side quest :)**  
-- 📻 Radio host at **Boenkerz** and hosting **Headbang Hour**
+- 📻 Radio host at [**Boenkerz**](https://boenkerz.be/) and hosting **Headbang Hour**
 - 🖥 Built my own **PC** and love tinkering with **hardware & software**
 - 👨‍💻 Codes in **Java, C++ and Python** and enjoys exploring new projects  
-- 🎧 Video editing with **DaVinci Resolve**, audio editing with **Reaper**  
-- 🎮 Likes **gaming, cycling, walking and running** in free time  
+- 🎧 Video editing with [**DaVinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve), audio editing with [**Reaper**](https://www.reaper.fm/)
+- 🎮 Like **gaming, cycling, walking and more** in free time  
 - 🎶 Favourite genres: **metalcore, hardcore, rock**  
-- 🎙️ Podcasting, host of **Tom Tom Talks**
+- 🎙️ Podcasting, host of [**Tom Tom Talks**](https://ld-beepbeep.github.io/podcast/)
 
 </details>
