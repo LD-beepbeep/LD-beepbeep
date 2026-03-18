@@ -6,7 +6,10 @@
 
 ### 📝 About Me
 
-I’m Lars. I love making music, hosting radio shows, building PCs, editing audio & video, and coding in Java, C++, Python, some more.  
+I’m Lars. I love making music, hosting radio shows, building PCs, editing audio & video, and coding in Java, C++, Python, some more.  <p align="left">
+<img src="https://img.shields.io/badge/Verified-Student-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PC_Builder-Hardware-red?style=for-the-badge&logo=micro-star-international&logoColor=white" />
+</p>
 
 ---
 
